@@ -1,1 +1,1 @@
-parabrain is an AI tool, mainly on nlp.
+parabrain is an AI tool, mainly for nlp.
